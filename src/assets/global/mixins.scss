@@ -1,0 +1,10 @@
+@import "constants";
+
+@mixin add-padding {
+  padding: $container;
+}
+
+@mixin dark-mode($background, $font){
+  background-color: $background;
+  color: $font
+}
