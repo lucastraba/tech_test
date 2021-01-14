@@ -1,4 +1,7 @@
-# azertium_tech_test
+# tech_test
+
+## Description
+A small web app that allows a user to search GitHub repositories using the GitHub API.
 
 ## Project setup
 ```

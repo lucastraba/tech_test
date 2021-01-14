@@ -8,7 +8,7 @@
       variant="dark"
     >
       <b-navbar-brand href="#">
-        GitHub Search by Azertium
+        GitHub Search by Lucas Traba
       </b-navbar-brand>
       <b-navbar-nav class="ml-auto">
         <b-navbar-brand
